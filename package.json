@@ -84,7 +84,7 @@
     "xgplayer": "^2.32.2"
   },
   "devDependencies": {
-    "@amap/amap-jsapi-types": "^0.0.10",
+    "@amap/amap-jsapi-types": "^0.0.15",
     "@iconify/json": "^2.2.7",
     "@iconify/vue": "^4.0.2",
     "@soybeanjs/cli": "^0.1.6",
