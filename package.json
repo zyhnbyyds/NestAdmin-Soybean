@@ -94,7 +94,7 @@
     "@types/node": "18.11.18",
     "@types/qs": "^6.9.7",
     "@types/ua-parser-js": "^0.7.36",
-    "@unocss/preset-uno": "^0.48.4",
+    "@unocss/preset-uno": "^0.63.0",
     "@unocss/vite": "^0.48.4",
     "@vitejs/plugin-vue": "^4.0.0",
     "@vitejs/plugin-vue-jsx": "^3.0.0",
