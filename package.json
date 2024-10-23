@@ -91,7 +91,7 @@
     "@soybeanjs/vite-plugin-vue-page-route": "^0.0.5",
     "@types/bmapgl": "^0.0.5",
     "@types/crypto-js": "^4.1.1",
-    "@types/node": "18.11.18",
+    "@types/node": "18.19.59",
     "@types/qs": "^6.9.7",
     "@types/ua-parser-js": "^0.7.36",
     "@unocss/preset-uno": "^0.48.4",
